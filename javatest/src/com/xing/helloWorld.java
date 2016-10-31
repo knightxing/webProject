@@ -6,7 +6,7 @@ public class helloWorld {
 
 		System.out.println("i am javatest1");
 		
-		System.out.println("i am master");
+		System.out.println("i am a master ...");
 
 	}
 
