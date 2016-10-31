@@ -8,6 +8,7 @@ public class helloWorld {
 		
 		System.out.println("i am a master ...");
 
+		System.out.println("不进行本地提交。。。");
 	}
 
 }
